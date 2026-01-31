@@ -6,7 +6,7 @@ const fileContent = {
 
 const developer = {
     name: "설백 (SEOL-WHITE)",
-    role: "IT Specialist & Full Stack Developer",
+    role: "IT Generalist & Full Stack Developer",
     location: "Gyeongju, Korea"
 };
 `,
@@ -91,4 +91,5 @@ fileItems.forEach(item => {
 
 window.onload = () => {
     typeCode(fileContent.about);
+
 };
