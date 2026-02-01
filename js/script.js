@@ -19,7 +19,7 @@ const developer = {
 };
     `,
     projects: `const projects = {
-    "projects1": [],
+    "Deredoro, 2026.02.04": ["JavaFX", "개인 커스텀이 가능한 윈도우 전용 뽀모도로 프로그램 | POMODORO program for Window with personal customizing"],
     "projects2": [],
     "projects3": []
 };
@@ -93,3 +93,4 @@ window.onload = () => {
     typeCode(fileContent.about);
 
 };
+
